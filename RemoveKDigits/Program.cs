@@ -38,13 +38,15 @@ void PrintOneDimArray(int[] array)
 }
 
 PrintOneDimArray(array);
-int howMany = 0;
+
 int p = 0;
+int howMany = 0;
 for (int t = 0; t < count - k + howMany; t++)
 {
+    if (t > count-1) break;
     int min = array[t];
 
-    for (int i = t; i < array.Length - k + howMany; i++)
+    for (int i = t; i < count - k + howMany; i++)
     {
         if (array[i] < min)
         {
@@ -52,9 +54,11 @@ for (int t = 0; t < count - k + howMany; t++)
             p = i;
         }
     }
+
     Console.Write(min);
-    howMany++;
     t = p;
+    howMany++;
+    if (howMany == array.Length-1) break;
 }
 
 
