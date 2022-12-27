@@ -1,0 +1,15 @@
+C:\Users\PC\YandexDisk\Гикарь\LeetCode\RemoveKDigits\bin\Debug\net6.0\RemoveKDigits.exe
+C:\Users\PC\YandexDisk\Гикарь\LeetCode\RemoveKDigits\bin\Debug\net6.0\RemoveKDigits.deps.json
+C:\Users\PC\YandexDisk\Гикарь\LeetCode\RemoveKDigits\bin\Debug\net6.0\RemoveKDigits.runtimeconfig.json
+C:\Users\PC\YandexDisk\Гикарь\LeetCode\RemoveKDigits\bin\Debug\net6.0\RemoveKDigits.dll
+C:\Users\PC\YandexDisk\Гикарь\LeetCode\RemoveKDigits\bin\Debug\net6.0\RemoveKDigits.pdb
+C:\Users\PC\YandexDisk\Гикарь\LeetCode\RemoveKDigits\obj\Debug\net6.0\RemoveKDigits.csproj.AssemblyReference.cache
+C:\Users\PC\YandexDisk\Гикарь\LeetCode\RemoveKDigits\obj\Debug\net6.0\RemoveKDigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\YandexDisk\Гикарь\LeetCode\RemoveKDigits\obj\Debug\net6.0\RemoveKDigits.AssemblyInfoInputs.cache
+C:\Users\PC\YandexDisk\Гикарь\LeetCode\RemoveKDigits\obj\Debug\net6.0\RemoveKDigits.AssemblyInfo.cs
+C:\Users\PC\YandexDisk\Гикарь\LeetCode\RemoveKDigits\obj\Debug\net6.0\RemoveKDigits.csproj.CoreCompileInputs.cache
+C:\Users\PC\YandexDisk\Гикарь\LeetCode\RemoveKDigits\obj\Debug\net6.0\RemoveKDigits.dll
+C:\Users\PC\YandexDisk\Гикарь\LeetCode\RemoveKDigits\obj\Debug\net6.0\refint\RemoveKDigits.dll
+C:\Users\PC\YandexDisk\Гикарь\LeetCode\RemoveKDigits\obj\Debug\net6.0\RemoveKDigits.pdb
+C:\Users\PC\YandexDisk\Гикарь\LeetCode\RemoveKDigits\obj\Debug\net6.0\RemoveKDigits.genruntimeconfig.cache
+C:\Users\PC\YandexDisk\Гикарь\LeetCode\RemoveKDigits\obj\Debug\net6.0\ref\RemoveKDigits.dll
