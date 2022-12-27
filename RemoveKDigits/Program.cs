@@ -41,17 +41,19 @@ PrintOneDimArray(array);
 
 int removeKDigits(int[] array, int k)
 {
+    int f = 0;
     int min = array[0];
     int p = 0;
     int counter = 0;
     for (int i = 0; i < k + 1; i++)
     {
-        if (array[i] < min)
+        if (array[i] <= min)
         {
             min = array[i];
-            p = i;
+            f = i;
         }
     }
+    p = f;
     if (counter == 0 && p == k)
     {
         for (int j = k; j < array.Length; j++)
@@ -63,14 +65,14 @@ int removeKDigits(int[] array, int k)
     }
     if (p < k) Console.Write(min);
 
-    while(counter != 1 )
+    while (counter != 1)
     {
         int index = 0;
-        for (int i = p+1; i < p + k + 1; i++)
+        int u = p + 1;
+        min = array[u];
+        for (int i = p + 1; i < p + k + 1; i++)
         {
-            int u = p+1;
-            min = array[u];
-            if (array[i] < min)
+            if (array[i] <= min)
             {
                 min = array[i];
                 index = i;
@@ -78,7 +80,7 @@ int removeKDigits(int[] array, int k)
         }
         p = index;
         Console.Write(min);
-        
+
         if (p + k + 1 > array.Length)
         {
             for (int j = p + 1; j < array.Length; j++)
