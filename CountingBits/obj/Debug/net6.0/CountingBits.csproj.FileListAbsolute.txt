@@ -1,0 +1,15 @@
+C:\Users\PC\YandexDisk\Гикарь\LeetCode\CountingBits\bin\Debug\net6.0\CountingBits.exe
+C:\Users\PC\YandexDisk\Гикарь\LeetCode\CountingBits\bin\Debug\net6.0\CountingBits.deps.json
+C:\Users\PC\YandexDisk\Гикарь\LeetCode\CountingBits\bin\Debug\net6.0\CountingBits.runtimeconfig.json
+C:\Users\PC\YandexDisk\Гикарь\LeetCode\CountingBits\bin\Debug\net6.0\CountingBits.dll
+C:\Users\PC\YandexDisk\Гикарь\LeetCode\CountingBits\bin\Debug\net6.0\CountingBits.pdb
+C:\Users\PC\YandexDisk\Гикарь\LeetCode\CountingBits\obj\Debug\net6.0\CountingBits.csproj.AssemblyReference.cache
+C:\Users\PC\YandexDisk\Гикарь\LeetCode\CountingBits\obj\Debug\net6.0\CountingBits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\YandexDisk\Гикарь\LeetCode\CountingBits\obj\Debug\net6.0\CountingBits.AssemblyInfoInputs.cache
+C:\Users\PC\YandexDisk\Гикарь\LeetCode\CountingBits\obj\Debug\net6.0\CountingBits.AssemblyInfo.cs
+C:\Users\PC\YandexDisk\Гикарь\LeetCode\CountingBits\obj\Debug\net6.0\CountingBits.csproj.CoreCompileInputs.cache
+C:\Users\PC\YandexDisk\Гикарь\LeetCode\CountingBits\obj\Debug\net6.0\CountingBits.dll
+C:\Users\PC\YandexDisk\Гикарь\LeetCode\CountingBits\obj\Debug\net6.0\refint\CountingBits.dll
+C:\Users\PC\YandexDisk\Гикарь\LeetCode\CountingBits\obj\Debug\net6.0\CountingBits.pdb
+C:\Users\PC\YandexDisk\Гикарь\LeetCode\CountingBits\obj\Debug\net6.0\CountingBits.genruntimeconfig.cache
+C:\Users\PC\YandexDisk\Гикарь\LeetCode\CountingBits\obj\Debug\net6.0\ref\CountingBits.dll
