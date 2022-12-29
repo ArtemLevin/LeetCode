@@ -1,0 +1,15 @@
+C:\Users\PC\YandexDisk\Гикарь\LeetCode\4sum\bin\Debug\net6.0\4sum.exe
+C:\Users\PC\YandexDisk\Гикарь\LeetCode\4sum\bin\Debug\net6.0\4sum.deps.json
+C:\Users\PC\YandexDisk\Гикарь\LeetCode\4sum\bin\Debug\net6.0\4sum.runtimeconfig.json
+C:\Users\PC\YandexDisk\Гикарь\LeetCode\4sum\bin\Debug\net6.0\4sum.dll
+C:\Users\PC\YandexDisk\Гикарь\LeetCode\4sum\bin\Debug\net6.0\4sum.pdb
+C:\Users\PC\YandexDisk\Гикарь\LeetCode\4sum\obj\Debug\net6.0\4sum.csproj.AssemblyReference.cache
+C:\Users\PC\YandexDisk\Гикарь\LeetCode\4sum\obj\Debug\net6.0\4sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\YandexDisk\Гикарь\LeetCode\4sum\obj\Debug\net6.0\4sum.AssemblyInfoInputs.cache
+C:\Users\PC\YandexDisk\Гикарь\LeetCode\4sum\obj\Debug\net6.0\4sum.AssemblyInfo.cs
+C:\Users\PC\YandexDisk\Гикарь\LeetCode\4sum\obj\Debug\net6.0\4sum.csproj.CoreCompileInputs.cache
+C:\Users\PC\YandexDisk\Гикарь\LeetCode\4sum\obj\Debug\net6.0\4sum.dll
+C:\Users\PC\YandexDisk\Гикарь\LeetCode\4sum\obj\Debug\net6.0\refint\4sum.dll
+C:\Users\PC\YandexDisk\Гикарь\LeetCode\4sum\obj\Debug\net6.0\4sum.pdb
+C:\Users\PC\YandexDisk\Гикарь\LeetCode\4sum\obj\Debug\net6.0\4sum.genruntimeconfig.cache
+C:\Users\PC\YandexDisk\Гикарь\LeetCode\4sum\obj\Debug\net6.0\ref\4sum.dll
