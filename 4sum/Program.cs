@@ -44,7 +44,7 @@ void Quadruplet(int[] array)
         int d = new Random().Next(0, array.Length);
         if (a != b && a != c && a != d && b != c && b != d && (array[a] + array[b] + array[c] + array[d] == target))
         {
-            Console.WriteLine($"{a}, {b}, {c}, {d}");
+            Console.WriteLine($"{array[a]}, {array[b]}, {array[c]}, {array[d]}");
             k = 1;
         }
     }
