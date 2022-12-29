@@ -31,7 +31,7 @@ void PrintOneDimArray(int[] array)
 
 PrintOneDimArray(array);
 
-void Quadruplet(int[] array)
+void QuadrupletRandom(int[] array)
 {
     Console.Write("Enter the target ");
     int target = int.Parse(Console.ReadLine()!);
@@ -50,4 +50,30 @@ void Quadruplet(int[] array)
     }
 }
 
-Quadruplet(array);
+// Quadruplet(array);
+
+void QuadrupletAll(int[] array)
+{
+    Console.Write("Enter the target ");
+    int target = int.Parse(Console.ReadLine()!);
+    int k = 0;
+    for (int i = 0; i < array.Length - 4; i++)
+    {
+        for (int j = i + 1; j < array.Length - 3; j++)
+        {
+            for (int p = j + 1; p < array.Length - 2; p++)
+            {
+                for (int t = p + 1; t < array.Length - 1; t++)
+                {
+                    if ((array[i] + array[j] + array[p] + array[t]) == target)
+                    {
+                        Console.Write($"{array[i]}  {array[j]} {array[p]}  {array[t]}");
+                        Console.WriteLine(" ");
+                    }
+                }
+            }
+        }
+    }
+}
+
+QuadrupletAll(array);
