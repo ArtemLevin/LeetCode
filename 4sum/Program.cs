@@ -50,7 +50,7 @@ void QuadrupletRandom(int[] array)
     }
 }
 
-// Quadruplet(array);
+// QuadrupletRandom(array);
 
 void QuadrupletAll(int[] array)
 {
