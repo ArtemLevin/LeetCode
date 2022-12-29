@@ -36,7 +36,7 @@ void Quadruplet(int[] array)
     Console.Write("Enter the target ");
     int target = int.Parse(Console.ReadLine()!);
     int k = 0;
-    while (k != 1)
+    while (k != 10)
     {
         int a = new Random().Next(0, array.Length);
         int b = new Random().Next(0, array.Length);
@@ -44,8 +44,8 @@ void Quadruplet(int[] array)
         int d = new Random().Next(0, array.Length);
         if (a != b && a != c && a != d && b != c && b != d && (array[a] + array[b] + array[c] + array[d] == target))
         {
-            Console.WriteLine($"{array[a]}, {array[b]}, {array[c]}, {array[d]}");
-            k = 1;
+            Console.WriteLine($"{array[a]}\t {array[b]}\t {array[c]}\t {array[d]}\t");
+            k++;
         }
     }
 }
